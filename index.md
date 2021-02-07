@@ -30,7 +30,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   Vijay Veerabadran, Reza Pourreza, **Amirhossein Habibian**, Taco Cohen
   <br>
-  **CVPR 2020 - Workshop and Challenge on Learned Image Compression ** [[PDF](https://arxiv.org/abs/2004.09508)]
+  **CVPR 2020 - Workshop and Challenge on Learned Image Compression** [[PDF](https://arxiv.org/abs/2004.09508)]
 
 - **Video Compression With Rate-Distortion Autoencoders**
   <br>
