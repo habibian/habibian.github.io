@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Amir, a research scientist at [Qualcomm AI Research] (https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is currently focused on developing deep neural networks to process videos efficiently.
+I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is currently focused on developing deep neural networks to process videos efficiently.
 
 ## Research Interests
 
