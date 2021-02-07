@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am Amir, a research scientist at [[Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research)]. What I do, in one sentence, is trying to help machines to pass the Turing test 🙂
 
 ## Research Interests
 
