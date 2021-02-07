@@ -20,30 +20,29 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Learning Variations in Human Motion via Mix-and-Match Perturbation**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, **Amirhossein Habibian**  
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  **CVPR 2020** [[PDF](https://arxiv.org/abs/1908.00733)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Adversarial Distortion for Learned Video Compression**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Vijay Veerabadran, Reza Pourreza, **Amirhossein Habibian**, Taco Cohen
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  **CVPR 2020 - Workshop and Challenge on Learned Image Compression ** [[PDF](https://arxiv.org/abs/2004.09508)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Video Compression With Rate-Distortion Autoencoders**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Amirhossein Habibian**, Ties van Rozendaal, Jakub M. Tomczak, Taco Cohen
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  **ICCV 2019** [[PDF](https://arxiv.org/abs/1908.05717)]
+  
+- **Recognizing Compressed Videos: Challenges and Promises**
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
+  Reza Pourreza, Amir Ghodrati, **Amirhossein Habibian**
+  <br>
+  **ICCV 2019 - Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos** [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
 
 ## Selected Talks
 
