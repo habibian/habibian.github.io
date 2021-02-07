@@ -23,7 +23,6 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 - **Learning Variations in Human Motion via Mix-and-Match Perturbation**
   <br>
   Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, **Amirhossein Habibian**  
-  <br>
   **CVPR 2020** [[PDF](https://arxiv.org/abs/1908.00733)]
 
 - **Adversarial Distortion for Learned Video Compression**
