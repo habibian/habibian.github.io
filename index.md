@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am Amir, a research scientist at [[Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research)]. What I do, in one sentence, is trying to help machines to pass the Turing test 🙂
+I am Amir, a research scientist at [Qualcomm AI Research (https://www.qualcomm.com/research/artificial-intelligence/ai-research)]. My research is currently focused on developing deep neural networks to process videos efficiently.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** video undestanding, video compression, perception on video streams
+- **Machine Learning:** conditional compute, generative models, model compression
 
 ## News
 
