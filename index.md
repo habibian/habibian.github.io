@@ -13,7 +13,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 - **[Dec 2020]** Our demo on efficient semantic segmentation of high-resolution videos at [[NeurIPS](https://www.qualcomm.com/videos/neurips-2020-demo-efficient-semantic-segmentation-high-resolution-video)]
 - **[Dec 2020]** Several research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
 
-## Selected Publications
+## Selected Papers
 
 - **Learning Variations in Human Motion via Mix-and-Match Perturbation**
   <br>
