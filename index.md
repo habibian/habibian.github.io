@@ -6,11 +6,6 @@ layout: homepage
 
 I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is currently focused on developing deep neural networks to process videos efficiently.
 
-## Research Interests
-
-- **Computer Vision:** video undestanding, video compression, perception on video streams
-- **Machine Learning:** conditional compute, generative models, model compression
-
 ## News
 
 - **[Jan 2021]** Webinar on our research on efficient video processing [[Link](https://www.qualcomm.com/news/onq/2021/01/19/making-it-possible-efficiently-analyze-video-ai)] [[Slides](https://www.qualcomm.com/media/documents/files/presentation-efficient-video-perception-through-ai.pdf)]
