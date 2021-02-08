@@ -15,6 +15,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 
 - **[Jan 2021]** Webinar on our research on efficient video processing [[Link](https://www.qualcomm.com/news/onq/2021/01/19/making-it-possible-efficiently-analyze-video-ai)] [[Slides](https://www.qualcomm.com/media/documents/files/presentation-efficient-video-perception-through-ai.pdf)]
 - **[Jan 2021]** Several fellowships available for PhD students [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
+- **[Dec 2020]** Our work on efficient semantic segmentation of high-resolution [[demoed at NeurIPS](https://www.qualcomm.com/videos/neurips-2020-demo-efficient-semantic-segmentation-high-resolution-video)]
 - **[Dec 2020]** Several research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
 
 ## Publications
