@@ -23,25 +23,25 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 - **Learning Variations in Human Motion via Mix-and-Match Perturbation**
   <br>
   Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, **Amirhossein Habibian**  
-  **CVPR 2020** [[PDF](https://arxiv.org/abs/1908.00733)]
+  **CVPR 2020** [[PDF](https://arxiv.org/pdf/1908.00733)]
 
 - **Adversarial Distortion for Learned Video Compression**
   <br>
   Vijay Veerabadran, Reza Pourreza, **Amirhossein Habibian**, Taco Cohen
   <br>
-  **CVPR 2020 - Workshop and Challenge on Learned Image Compression** [[PDF](https://arxiv.org/abs/2004.09508)]
+  **CVPR 2020** Workshop and Challenge on Learned Image Compression [[PDF](https://arxiv.org/pdf/2004.09508)]
 
 - **Video Compression With Rate-Distortion Autoencoders**
   <br>
   **Amirhossein Habibian**, Ties van Rozendaal, Jakub M. Tomczak, Taco Cohen
   <br>
-  **ICCV 2019** [[PDF](https://arxiv.org/abs/1908.05717)]
+  **ICCV 2019** [[PDF](https://arxiv.org/pdf/1908.05717)]
   
 - **Recognizing Compressed Videos: Challenges and Promises**
   <br>
   Reza Pourreza, Amir Ghodrati, **Amirhossein Habibian**
   <br>
-  **ICCV 2019 - Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos** [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
+  **ICCV 2019** Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
 
 ## Selected Talks
 
