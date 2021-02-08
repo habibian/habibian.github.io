@@ -29,7 +29,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   Vijay Veerabadran, Reza Pourreza, **Amirhossein Habibian**, Taco Cohen
   <br>
-  **CVPR 2020** Workshop and Challenge on Learned Image Compression [[PDF](https://arxiv.org/pdf/2004.09508)]
+  **CVPR 2020** - Workshop and Challenge on Learned Image Compression [[PDF](https://arxiv.org/pdf/2004.09508)]
 
 - **Video Compression With Rate-Distortion Autoencoders**
   <br>
@@ -41,7 +41,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   Reza Pourreza, Amir Ghodrati, **Amirhossein Habibian**
   <br>
-  **ICCV 2019** Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
+  **ICCV 2019** - Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
 
 ## Selected Talks
 
