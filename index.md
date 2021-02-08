@@ -13,10 +13,8 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Jan 2021]** Several fellowships available for PhD students in Europe [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
+- **[Dec 2020]** Several research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
 
 ## Publications
 
