@@ -43,14 +43,14 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   **ICCV 2019** - Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
 
-- **Video2vec Embeddings Recognize Events When Examples Are**
-<br>
+- **Video2vec Embeddings Recognize Events When Examples Are Scarce**
+  <br>
   **Amirhossein Habibian**, Thomas Mensink, Cees Snoek
   <br>
   **PAMI 2016** [[PDF](https://www.qualcomm.com/media/documents/files/video2vec-embeddings-recognize-events-when-examples-are-scarce.pdf)]
   
  - **Videostory: A new multimedia embedding for few-example recognition and translation of events**
-<br>
+  <br>
   **Amirhossein Habibian**, Thomas Mensink, Cees Snoek
   <br>
   **ACM MM 2014** [[PDF](https://ivi.fnwi.uva.nl/isis/publications/2014/HabibianICM2014/HabibianICM2014.pdf)] (best paper award)
