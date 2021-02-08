@@ -13,7 +13,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 
 ## News
 
-- **[Jan 2021]** Several fellowships available for PhD students in Europe [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
+- **[Jan 2021]** Several fellowships available for PhD students [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
 - **[Dec 2020]** Several research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
 
 ## Publications
