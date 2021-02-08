@@ -43,28 +43,14 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   **ICCV 2019** - Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos [[PDF](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Pourreza_Recognizing_Compressed_Videos_Challenges_and_Promises_ICCVW_2019_paper.pdf)]
 
-## Selected Talks
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Video2vec Embeddings Recognize Events When Examples Are**
+<br>
+  **Amirhossein Habibian**, Thomas Mensink, Cees Snoek
   <br>
-  NeurIPS Official Meetups
+  **PAMI 2016** [[PDF](https://www.qualcomm.com/media/documents/files/video2vec-embeddings-recognize-events-when-examples-are-scarce.pdf)]
+  
+ - **Videostory: A new multimedia embedding for few-example recognition and translation of events**
+<br>
+  **Amirhossein Habibian**, Thomas Mensink, Cees Snoek
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+  **ACM MM 2014** [[PDF](https://ivi.fnwi.uva.nl/isis/publications/2014/HabibianICM2014/HabibianICM2014.pdf)] (best paper award)
