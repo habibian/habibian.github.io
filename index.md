@@ -53,4 +53,4 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   **Amirhossein Habibian**, Thomas Mensink, Cees Snoek
   <br>
-  **ACM MM 2014** [[PDF](https://ivi.fnwi.uva.nl/isis/publications/2014/HabibianICM2014/HabibianICM2014.pdf)] (best paper award)
+  **ACM MM 2014** [[PDF](https://ivi.fnwi.uva.nl/isis/publications/2014/HabibianICM2014/HabibianICM2014.pdf)] <span style="color:red"> *Best Paper Award*</span>
