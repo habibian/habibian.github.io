@@ -22,7 +22,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   
 - **FrameExit: Conditional Early Exiting for Efficient Video Recognition**
   <br>
-  Amir Ghodrati, Babak Ehteshami Bejnordi, **Amirhossein Habibian**  
+  Amir Ghodrati, Babak Ehteshami Bejnordi, **Amirhossein Habibian**
   <br>
   **CVPR 2021 (Oral)** [[PDF](https://todo)] 
  
