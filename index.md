@@ -7,14 +7,23 @@ layout: homepage
 I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is currently focused on developing deep neural networks to process videos efficiently.
 
 ## News
-
+- **[March 2021]** Two papers accepted in CVPR 2021
 - **[Jan 2021]** Webinar on our research on efficient video processing [[Link](https://www.qualcomm.com/news/onq/2021/01/19/making-it-possible-efficiently-analyze-video-ai)] [[Slides](https://www.qualcomm.com/media/documents/files/presentation-efficient-video-perception-through-ai.pdf)]
 - **[Jan 2021]** PhD fellowships available for several AI programs in Europe [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
 - **[Dec 2020]** Our demo on efficient semantic segmentation of high-resolution videos at [[NeurIPS](https://www.qualcomm.com/videos/neurips-2020-demo-efficient-semantic-segmentation-high-resolution-video)]
 - **[Dec 2020]** Research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
 
-## Selected Papers
-
+## Recent Papers
+- **Skip-Convolutions for Efficient Video Processing**
+  <br>
+  **Amirhossein Habibian**, Davide Abati, Taco Cohen, Babak Ehteshami Bejnordi
+  **CVPR 2021 ** [[PDF](https://todo)] 
+  
+- **FrameExit: Conditional Early Exiting for Efficient Video Recognition**
+  <br>
+  Amir Ghodrati, Babak Ehteshami Bejnordi, **Amirhossein Habibian**  
+  **CVPR 2021 (Oral) ** [[PDF](https://todo)] 
+ 
 - **Learning Variations in Human Motion via Mix-and-Match Perturbation**
   <br>
   Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, **Amirhossein Habibian**  
