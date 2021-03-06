@@ -8,12 +8,12 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
 
 ## News
 - **[March 2021]** Two papers accepted in CVPR 2021
-- **[Jan 2021]** Webinar on our research on efficient video processing [[Link](https://www.qualcomm.com/news/onq/2021/01/19/making-it-possible-efficiently-analyze-video-ai)] [[Slides](https://www.qualcomm.com/media/documents/files/presentation-efficient-video-perception-through-ai.pdf)]
-- **[Jan 2021]** PhD fellowships available for several AI programs in Europe [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
-- **[Dec 2020]** Our demo on efficient semantic segmentation of high-resolution videos at [[NeurIPS](https://www.qualcomm.com/videos/neurips-2020-demo-efficient-semantic-segmentation-high-resolution-video)]
-- **[Dec 2020]** Research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
+- **[January 2021]** Webinar on our research on efficient video processing [[Link](https://www.qualcomm.com/news/onq/2021/01/19/making-it-possible-efficiently-analyze-video-ai)] [[Slides](https://www.qualcomm.com/media/documents/files/presentation-efficient-video-perception-through-ai.pdf)]
+- **[January 2021]** PhD fellowships available for several AI programs in Europe [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
+- **[December 2020]** Our demo on efficient semantic segmentation of high-resolution videos at [[NeurIPS](https://www.qualcomm.com/videos/neurips-2020-demo-efficient-semantic-segmentation-high-resolution-video)]
+- **[December 2020]** Research internship positions available in our group [Link](https://qualcomm.dejobs.org/virtual-nld/deep-learning-intern-4-months-at-qualcomm-research-amsterdam-netherlands/91653ABC4A2C448EAA81AF8060E3AA6E/job/)
 
-## Recent Papers
+## Selected Papers
 - **Skip-Convolutions for Efficient Video Processing**
   <br>
   **Amirhossein Habibian**, Davide Abati, Taco Cohen, Babak Ehteshami Bejnordi
