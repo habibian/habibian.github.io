@@ -18,7 +18,7 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   **Amirhossein Habibian**, Davide Abati, Taco Cohen, Babak Ehteshami Bejnordi
   <br>
-  **CVPR 2021** [[PDF](https://todo)]
+  **CVPR 2021** [[PDF](https://arxiv.org/pdf/2104.11487.pdf)]
   
 - **FrameExit: Conditional Early Exiting for Efficient Video Recognition**
   <br>
