@@ -7,7 +7,7 @@ layout: homepage
 I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is currently focused on developing deep neural networks to process videos efficiently.
 
 ## News
-- **[June 2021]** Interview on efficient video processing in [[TWIML padcast](https://twimlai.com/skip-convolutions-for-efficient-video-processing-with-amir-habibian/)]
+- **[June 2021]** Interview on efficient video processing in [TWIML padcast](https://twimlai.com/skip-convolutions-for-efficient-video-processing-with-amir-habibian/)
 - **[March 2021]** Two papers accepted in CVPR 2021
 - **[January 2021]** Webinar on our research on efficient video processing [[Link](https://www.qualcomm.com/news/onq/2021/01/19/making-it-possible-efficiently-analyze-video-ai)] [[Slides](https://www.qualcomm.com/media/documents/files/presentation-efficient-video-perception-through-ai.pdf)]
 - **[January 2021]** PhD fellowships available for several AI programs in Europe [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2021-europe).
