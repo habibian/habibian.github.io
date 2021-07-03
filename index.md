@@ -18,13 +18,13 @@ I am Amir, a research scientist at [Qualcomm AI Research](https://www.qualcomm.c
   <br>
   **Amirhossein Habibian**, Davide Abati, Taco Cohen, Babak Ehteshami Bejnordi
   <br>
-  **CVPR 2021** [[PDF](https://arxiv.org/pdf/2104.11487.pdf)]
+  **CVPR 2021** [[PDF](https://arxiv.org/pdf/2104.11487.pdf)] [[Code] (https://github.com/Qualcomm-AI-research/Skip-Conv)]
   
 - **FrameExit: Conditional Early Exiting for Efficient Video Recognition**
   <br>
   Amir Ghodrati, Babak Ehteshami Bejnordi, **Amirhossein Habibian**
   <br>
-  **CVPR 2021 (Oral)** [[PDF](https://todo)] 
+  **CVPR 2021 (Oral)** [[PDF](https://arxiv.org/pdf/2104.13400.pdf)] [[Code] (https://github.com/Qualcomm-AI-research/FrameExit)]
  
 - **Learning Variations in Human Motion via Mix-and-Match Perturbation**
   <br>
