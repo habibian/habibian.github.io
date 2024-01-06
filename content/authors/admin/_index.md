@@ -3,7 +3,7 @@
 title: Amir Habibian
 
 # Name pronunciation (optional)
-# name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Amirhossein
@@ -55,7 +55,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/resume_tmp.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
