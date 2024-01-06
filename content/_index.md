@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -71,7 +71,7 @@ sections:
       columns: '2'  
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
