@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Engineering
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,5 +80,5 @@ social:
 highlight_name: true
 ---
 
-I am Amir Habibian, director of engineering at Qualcomm AI Research. My reserach is mostly focused on computational efficiency of computer vision models to process high resolution images and videos.
+I am Amir Habibian, research scientist (Director of Engineering) at Qualcomm AI Research. My reserach is focused on computational efficiency of computer vision models to process high resolution images and videos. Currently, I lead the Generative Vision group, which develops efficient diffusion models to generate images and videos on edge devices such as mobile and XR devices.
 {style="text-align: justify;"}
