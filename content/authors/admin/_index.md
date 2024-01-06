@@ -27,25 +27,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Short Bio.
 
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Amsterdam
-      year: 2015
-    - course: Msc in Artificial Intelligence
-      institution: University of Tehran
-      year: 2011
-    - course: BSc in Computer Engineering
-      institution: University of Tehran
-      year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
