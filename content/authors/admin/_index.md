@@ -25,7 +25,7 @@ organizations:
     url: https://www.qualcomm.com/research/artificial-intelligence/ai-research
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short Bio.
+bio: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
