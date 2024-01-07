@@ -1,7 +1,7 @@
 ---
-title: Qualcomm Innovation Fellowship for 2023
+title: Realtime 4K Video Denoising demo at ICCV 2023
 
-date: '2023-02-01'
+date: '2023-10-04'
 
-summary: The 2023 edition of QIF program in Europe has just started. Similar to previous years, it awards $40,000 to four PhD students. [More info](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-europe)
+summary: We demonstrated our efficient video denoising model processing 4K videos at 30 fps on an Andrpod phone empowered with SnapDragon Gen2 processor.
 ---
