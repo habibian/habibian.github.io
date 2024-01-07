@@ -1,7 +1,7 @@
 ---
-title: Invited talk in the 2nd Workshop on Efficient ML in Vienna [Link](https://sites.google.com/view/efficientml2022)
+title: Invited talk in the 2nd Workshop on Efficient ML in Vienna
 
-summary: Presenting our latest research on efficient video processing
+summary: Presenting our latest research on efficient video processing. [More info](https://sites.google.com/view/efficientml2022)
 
 abstract: ''
 
