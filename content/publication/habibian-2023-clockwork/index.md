@@ -25,7 +25,7 @@ tags: [Generative Models, Image Generation, Efficient Diffusion Model]
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2312.08128'
+url_pdf: 'https://arxiv.org/pdf/2312.08128.pdf'
 url_code: ''
 url_poster: ''
 url_project: ''
