@@ -1,5 +1,5 @@
 ---
-title: 'Recognizing compressed videos: Challenges and promises'
+title: 'Recognizing Compressed Videos: Challenges and Promises'
 authors:
 - Reza Pourreza
 - Amir Ghodrati

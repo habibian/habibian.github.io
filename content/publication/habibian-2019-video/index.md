@@ -1,5 +1,5 @@
 ---
-title: Video compression with rate-distortion autoencoders
+title: Video Compression with Rate-Distortion Autoencoders
 authors:
 - admin
 - Ties van Rozendaal

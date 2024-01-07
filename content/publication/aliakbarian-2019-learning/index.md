@@ -1,5 +1,5 @@
 ---
-title: Learning variations in human motion via mix-and-match perturbation
+title: Learning Variations in Human Motion via Mix-and-Match Perturbation
 authors:
 - Mohammad Sadegh Aliakbarian
 - Fatemeh Sadat Saleh

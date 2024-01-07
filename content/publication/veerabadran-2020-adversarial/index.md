@@ -1,5 +1,5 @@
 ---
-title: Adversarial distortion for learned video compression
+title: Adversarial Distortion for Learned Video Compression
 authors:
 - Vijay Veerabadran
 - Reza Pourreza

@@ -1,5 +1,5 @@
 ---
-title: Skip-convolutions for efficient video processing
+title: Skip-Convolutions for Efficient Video Processing
 authors:
 - admin
 - Davide Abati

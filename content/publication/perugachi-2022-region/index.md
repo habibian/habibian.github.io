@@ -1,5 +1,5 @@
 ---
-title: Region-of-interest based neural video compression
+title: Region-of-Interest based Neural Video Compression
 authors:
 - Yura Perugachi-Diaz
 - Guillaume Sautière
