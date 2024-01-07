@@ -23,7 +23,7 @@ tags: [Efficient Video Processing, Knowledge Distillation]
 featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2203.09594.pdf'
-url_code: ''
+url_code: 'https://github.com/Qualcomm-AI-research/delta-distillation'
 url_poster: ''
 url_project: ''
 url_slides: ''

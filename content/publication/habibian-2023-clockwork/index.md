@@ -26,10 +26,10 @@ tags: [Generative Models, Image Generation, Efficient Diffusion Model]
 featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2312.08128.pdf'
-url_code: 'https://github.com/Qualcomm-AI-research/delta-distillation'
-url_poster: 'https://arxiv.org/pdf/2312.08128.pdf'
-url_project: 'https://arxiv.org/pdf/2312.08128.pdf'
-url_slides: 'https://arxiv.org/pdf/2312.08128.pdf'
+url_code: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
