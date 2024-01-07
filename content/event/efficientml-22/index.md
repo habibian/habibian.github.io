@@ -17,7 +17,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: './efficientMWorkshopL2022_ahabibia_public.pptx'
+url_slides: './slides/efficientMWorkshopL2022_ahabibia_public.pptx'
 url_video: ''
 
 ---
