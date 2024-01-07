@@ -1,0 +1,23 @@
+---
+title: Invited talk in the 2nd Workshop on Efficient ML in Vienna [Link](https://sites.google.com/view/efficientml2022)
+
+summary: Presenting our latest research on efficient video processing
+
+abstract: ''
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2022-06-13T00:00:00Z'
+
+# Is this a featured talk? (true/false)
+featured: true
+
+image:
+  caption: ''
+  focal_point: Right
+
+url_code: ''
+url_pdf: ''
+url_slides: './efficientMWorkshopL2022_ahabibia_public.pptx'
+url_video: ''
+
+---
