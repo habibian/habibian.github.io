@@ -85,7 +85,7 @@ sections:
           - publication
         exclude_featured: no
     design:
-      columns: '2'
+      columns: '3'
       view: pdf
   
   - block: collection
