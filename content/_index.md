@@ -45,7 +45,7 @@ sections:
       username: admin
   
   - block: collection
-    id: posts
+    id: news
     content:
       title: News
       subtitle: ''
@@ -73,7 +73,7 @@ sections:
       columns: '2'  
   
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Publications
       text: |-
