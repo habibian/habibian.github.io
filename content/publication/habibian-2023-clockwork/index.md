@@ -26,7 +26,7 @@ tags: [Generative Models, Image Generation, Efficient Diffusion Model]
 featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2312.08128.pdf'
-url_code: ''
+url_code: 'https://github.com/Qualcomm-AI-research/delta-distillation'
 url_poster: ''
 url_project: ''
 url_slides: ''

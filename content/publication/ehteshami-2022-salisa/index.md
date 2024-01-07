@@ -19,7 +19,7 @@ abstract: "High-resolution images are widely adopted for high-performance object
 tags: [Efficient Video Processing, Small Object Detection, High Resolution Object Detection]
 
 # Display this page in the Featured widget?
-featured: true
+featured: no
 
 url_pdf: 'https://arxiv.org/pdf/2204.02397.pdf'
 url_code: ''
