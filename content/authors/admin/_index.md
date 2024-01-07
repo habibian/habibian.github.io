@@ -34,7 +34,7 @@ bio: Short Bio.
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:habibian.a.h@gmail.com
+    link: "mailto:habibian.a.h@gmail.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/amir_habibian
