@@ -86,7 +86,7 @@ sections:
         exclude_featured: no
     design:
       columns: '2'
-      view: pdf
+      view: publication
   
   - block: collection
     id: talks
