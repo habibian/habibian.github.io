@@ -1,5 +1,5 @@
 ---
-title: Genereative AI demo at CES 2023
+title: Genereative AI demo at CES 2024
 
 date: '2024-01-11'
 
