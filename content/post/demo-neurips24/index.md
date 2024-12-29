@@ -1,5 +1,5 @@
 ---
-title: Mobile Vidoe Diffusion demo at NeurIPS 2024
+title: Mobile Video Diffusion demo at NeurIPS 2024
 
 date: '2024-12-10'
 

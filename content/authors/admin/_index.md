@@ -61,13 +61,13 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist interested in the computational efficiency of neural networks.
+I am a research scientist interested in the **computational efficiency of neural networks**.
 
-At [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-research), I have been leading teams developing mobile architectures for: 
+At [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-research), I have been leading teams developing **mobile architectures** for: 
 - Image and video generation
 - Video perception
 - Neural video compression
 
-I did a PhD on learning multimodal video representations at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html).
+I did a PhD on learning **multimodal video representations** at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html).
 
 {style="text-align: justify;"}
