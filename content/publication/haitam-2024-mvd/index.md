@@ -1,14 +1,12 @@
 ---
-title: 'Clockwork Diffusion: Efficient Generation With Model-Step Distillation'
+title: 'Mobile Video Diffusion'
 
 authors:
-- admin
+- Haitam Ben Yahia
+- Denis Korzhenkov
+- Ioannis Lelekas
 - Amir Ghodrati
-- Noor Fathima
-- Guillaume Sautiere
-- Risheek Garrepalli
-- Fatih Porikli
-- Jens Petersen
+- admin
 
 date: '2024-12-11'
 
