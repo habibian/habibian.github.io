@@ -26,9 +26,9 @@ tags: [Generative Modeling, Image Generation, Efficient Diffusion Model]
 featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2312.08128.pdf'
-url_code: ''
+url_code: 'https://github.com/Qualcomm-AI-research/clockwork-diffusion'
 url_poster: ''
-url_project: ''
+url_project: 'https://github.com/Qualcomm-AI-research/clockwork-diffusion'
 url_slides: ''
 
 # Featured image
