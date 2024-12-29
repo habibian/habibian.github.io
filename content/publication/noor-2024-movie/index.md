@@ -24,10 +24,10 @@ tags: [Generative Modeling, Video Generation, Efficient Diffusion Model]
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/pdf/2412.07583'
-url_code: 'https://qualcomm-ai-research.github.io/mobile-video-diffusion/'
+url_pdf: 'https://arxiv.org/pdf/2412.06578'
+url_code: 'https://qualcomm-ai-research.github.io/mobile-video-editing/'
 url_poster: ''
-url_project: 'https://qualcomm-ai-research.github.io/mobile-video-diffusion/'
+url_project: 'https://qualcomm-ai-research.github.io/mobile-video-editing/'
 url_slides: ''
 
 # Featured image
