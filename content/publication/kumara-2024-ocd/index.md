@@ -27,7 +27,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2401.05735.pdf'
 url_code: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://qualcomm-ai-research.github.io/object-centric-diffusion/'
 url_slides: ''
 
 # Featured image
