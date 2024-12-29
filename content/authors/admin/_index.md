@@ -63,11 +63,11 @@ highlight_name: true
 
 I am a research scientist interested in the computational efficiency of neural networks.
 
-At [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research) I have been leading teams developing *mobile architectures* for: 
+At [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research), I have been leading teams developing mobile architectures for: 
 - Image and video generation
-- Neural video compression
 - Video perception
+- Neural video compression
 
-I did my PhD on learning multimodal video representations from videos and captions at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html) recieving the *Best Paper Award* at ACM Multimedia 2014, the *Best Paper Award* at ASCI 2015, and *top performer* in the TRECVID video search challenge in 2014 and 2015.
+I did a PhD on learning multimodal video representations at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html).
 
 {style="text-align: justify;"}
