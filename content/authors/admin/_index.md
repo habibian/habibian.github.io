@@ -68,6 +68,6 @@ At [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-resea
 - Video perception
 - Neural video compression
 
-I did a PhD on learning multimodal video representations at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html).
+I did a PhD on learning multimodal video representations at the [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html).
 
 {style="text-align: justify;"}
