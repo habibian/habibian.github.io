@@ -70,8 +70,4 @@ At [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intellige
 
 I did my PhD on learning multimodal video representations from videos and captions at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html) recieving the *Best Paper Award* at ACM Multimedia 2014, the *Best Paper Award* at ASCI 2015, and *top performer* in the TRECVID video search challenge in 2014 and 2015.
 
-# I am Amir Habibian, research scientist (Director of Engineering) at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is focused on computational efficiency of computer vision models to process high resolution images and videos. Currently, I lead the *Generative Vision group*, which develops efficient diffusion models to generate images and videos on edge devices such as phones and XR headsets.
-
-# I received my PhD on learning multimodal video representations from the [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html) in 2016. During my studies, I received the *Best Paper Award* at ACM Multimedia 2014, the *Best Paper Award* at ASCI 2015, and *top performer* in the TRECVID video search challenge in 2014 and 2015.
-
 {style="text-align: justify;"}
