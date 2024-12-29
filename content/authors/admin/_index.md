@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Amirhossein Habibian
+title: Amir Habibian
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Amirhossein
+first_name: Amir (Amirhossein)
 last_name: Habibian
 
 # Status emoji
@@ -61,8 +61,17 @@ social:
 highlight_name: true
 ---
 
-I am Amir Habibian, research scientist (Director of Engineering) at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is focused on computational efficiency of computer vision models to process high resolution images and videos. Currently, I lead the *Generative Vision group*, which develops efficient diffusion models to generate images and videos on edge devices such as phone and XR headsets.
+I am a research scientist interested in the computational efficiency of neural networks.
 
-I received my PhD on learning multimodal video representations from the [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html) in 2016. During my studies, I received the *Best Paper Award* at ACM Multimedia 2014, the *Best Paper Award* at ASCI 2015, and *top performer* in the TRECVID video search challenge in 2014 and 2015.
+At [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research) I have been leading teams developing *mobile architectures* for: 
+- Image and video generation
+- Neural video compression
+- Video perception
+
+I did my PhD on learning multimodal video representations from videos and captions at [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html) recieving the *Best Paper Award* at ACM Multimedia 2014, the *Best Paper Award* at ASCI 2015, and *top performer* in the TRECVID video search challenge in 2014 and 2015.
+
+# I am Amir Habibian, research scientist (Director of Engineering) at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research). My research is focused on computational efficiency of computer vision models to process high resolution images and videos. Currently, I lead the *Generative Vision group*, which develops efficient diffusion models to generate images and videos on edge devices such as phones and XR headsets.
+
+# I received my PhD on learning multimodal video representations from the [University of Amsterdam](https://ivi.fnwi.uva.nl/quva/index.html) in 2016. During my studies, I received the *Best Paper Award* at ACM Multimedia 2014, the *Best Paper Award* at ASCI 2015, and *top performer* in the TRECVID video search challenge in 2014 and 2015.
 
 {style="text-align: justify;"}
