@@ -61,9 +61,9 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist interested in the computational efficiency of neural networks.
+I am a research scientist interested in the *computational efficiency of neural networks*.
 
-At [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-research), I have been leading teams *developing mobile architectures* for: 
+At [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-research), I have been leading teams developing mobile architectures for: 
 - Image and video generation
 - Video perception
 - Neural video compression
