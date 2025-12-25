@@ -94,6 +94,14 @@ function loadContentFromFile(filePath, targetSelector, sourceSelector) {
           }, 50);
         }
         
+        // Initialize pagination for demos section
+        if (filePath === 'demos.html' && sourceSelector === 'section#demos') {
+          // Wait for DOM to update, then initialize pagination
+          setTimeout(() => {
+            initializeDemosPagination();
+          }, 50);
+        }
+        
         // Initialize pagination for talks section
         if (filePath === 'talks.html' && sourceSelector === 'section#talks') {
           // Wait for DOM to update, then initialize pagination
@@ -131,15 +139,19 @@ document.addEventListener('DOMContentLoaded', () => {
   // Check if target elements exist (meaning we're on index.html) - load content from separate files
   const newsContent = document.querySelector('#news-content');
   const publicationsContent = document.querySelector('#publications-content');
+  const demosContent = document.querySelector('#demos-content');
   const talksContent = document.querySelector('#talks-content');
   
-  if (newsContent || publicationsContent || talksContent) {
+  if (newsContent || publicationsContent || demosContent || talksContent) {
     console.log('Detected index.html - Loading content from separate HTML files...');
     if (newsContent) {
       loadContentFromFile('news.html', '#news-content', 'section#news');
     }
     if (publicationsContent) {
       loadContentFromFile('publications.html', '#publications-content', 'section#publications');
+    }
+    if (demosContent) {
+      loadContentFromFile('demos.html', '#demos-content', 'section#demos');
     }
     if (talksContent) {
       loadContentFromFile('talks.html', '#talks-content', 'section#talks');
@@ -155,6 +167,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsSection = document.querySelector('section#news');
     if (newsSection) {
       initializeNewsPagination();
+    }
+    
+    // If we're on demos.html directly, initialize pagination
+    const demosSection = document.querySelector('section#demos');
+    if (demosSection) {
+      initializeDemosPagination();
     }
     
     // If we're on talks.html directly, initialize pagination
@@ -351,6 +369,105 @@ function initializeNewsPagination() {
   });
   
   document.getElementById('news-next-btn').addEventListener('click', () => {
+    showPage(currentPage + 1);
+  });
+  
+  // Dot navigation
+  paginationContainer.querySelectorAll('.pagination-dot').forEach(dot => {
+    dot.addEventListener('click', () => {
+      const page = parseInt(dot.getAttribute('data-page'));
+      showPage(page);
+    });
+  });
+}
+
+// Demos pagination functionality
+function initializeDemosPagination() {
+  const demosSection = document.querySelector('section#demos');
+  if (!demosSection) return;
+  
+  // Check if pagination already exists
+  if (demosSection.querySelector('.demos-pagination')) {
+    return;
+  }
+  
+  const row = demosSection.querySelector('.row');
+  if (!row) return;
+  
+  // Get all demos cards (divs with col-md-6 that contain cards)
+  const cards = Array.from(row.querySelectorAll('.col-md-6'));
+  
+  if (cards.length === 0) return;
+  
+  const cardsPerPage = 4;
+  const totalPages = Math.ceil(cards.length / cardsPerPage);
+  let currentPage = 1;
+  
+  // Add data attribute to each card for pagination
+  cards.forEach((card, index) => {
+    card.setAttribute('data-page', Math.floor(index / cardsPerPage) + 1);
+    if (index >= cardsPerPage) {
+      card.style.display = 'none';
+    }
+  });
+  
+  // Create pagination controls
+  const paginationContainer = document.createElement('div');
+  paginationContainer.className = 'demos-pagination';
+  paginationContainer.innerHTML = `
+    <div class="pagination-controls d-flex justify-content-center align-items-center gap-3 mb-4">
+      <button class="btn btn-outline-primary pagination-btn" id="demos-prev-btn" disabled>
+        <i class="fas fa-chevron-left"></i> Previous
+      </button>
+      <span class="pagination-info">
+        Page <span id="demos-current-page">1</span> of <span id="demos-total-pages">${totalPages}</span>
+      </span>
+      <button class="btn btn-outline-primary pagination-btn" id="demos-next-btn" ${totalPages === 1 ? 'disabled' : ''}>
+        Next <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+    <div class="pagination-dots d-flex justify-content-center gap-2 mb-4">
+      ${Array.from({ length: totalPages }, (_, i) => 
+        `<button class="pagination-dot ${i === 0 ? 'active' : ''}" data-page="${i + 1}" aria-label="Go to page ${i + 1}"></button>`
+      ).join('')}
+    </div>
+  `;
+  
+  // Insert pagination before the row (at the top)
+  row.parentNode.insertBefore(paginationContainer, row);
+  
+  // Function to show a specific page
+  function showPage(page) {
+    if (page < 1 || page > totalPages) return;
+    
+    currentPage = page;
+    
+    // Show/hide cards
+    cards.forEach(card => {
+      const cardPage = parseInt(card.getAttribute('data-page'));
+      card.style.display = cardPage === page ? '' : 'none';
+    });
+    
+    // Update pagination controls
+    document.getElementById('demos-current-page').textContent = page;
+    document.getElementById('demos-prev-btn').disabled = page === 1;
+    document.getElementById('demos-next-btn').disabled = page === totalPages;
+    
+    // Update dots
+    paginationContainer.querySelectorAll('.pagination-dot').forEach((dot, index) => {
+      dot.classList.toggle('active', index + 1 === page);
+    });
+    
+    // Scroll to top of demos section
+    demosSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  
+  // Event listeners
+  document.getElementById('demos-prev-btn').addEventListener('click', () => {
+    showPage(currentPage - 1);
+  });
+  
+  document.getElementById('demos-next-btn').addEventListener('click', () => {
     showPage(currentPage + 1);
   });
   
