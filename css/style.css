@@ -100,6 +100,17 @@ main.container-xl {
   padding-bottom: 0.5rem;
 }
 
+/* Smaller titles for team page subsections */
+section#intern-supervision h2,
+section#tech-leadership h2,
+section#management h2,
+section#academic-supervision h2,
+section#academic-collaborators h2,
+section#my-mentors h2 {
+  font-size: 1.5rem;
+  border-bottom-width: 2px;
+}
+
 /* Avatar */
 .avatar {
   width: 200px;

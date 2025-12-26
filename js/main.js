@@ -180,6 +180,37 @@ document.addEventListener('DOMContentLoaded', () => {
     if (talksSection) {
       initializeTalksPagination();
     }
+    
+    // If we're on team.html directly, initialize pagination for all team sections
+    const internSupervisionSection = document.querySelector('section#intern-supervision');
+    if (internSupervisionSection) {
+      initializeTeamSectionPagination('intern-supervision', 'intern-supervision');
+    }
+    
+    const techLeadershipSection = document.querySelector('section#tech-leadership');
+    if (techLeadershipSection) {
+      initializeTeamSectionPagination('tech-leadership', 'tech-leadership');
+    }
+    
+    const managementSection = document.querySelector('section#management');
+    if (managementSection) {
+      initializeTeamSectionPagination('management', 'management');
+    }
+    
+    const academicSupervisionSection = document.querySelector('section#academic-supervision');
+    if (academicSupervisionSection) {
+      initializeTeamSectionPagination('academic-supervision', 'academic-supervision');
+    }
+    
+    const academicCollaboratorsSection = document.querySelector('section#academic-collaborators');
+    if (academicCollaboratorsSection) {
+      initializeTeamSectionPagination('academic-collaborators', 'academic-collaborators');
+    }
+    
+    const myMentorsSection = document.querySelector('section#my-mentors');
+    if (myMentorsSection) {
+      initializeTeamSectionPagination('my-mentors', 'my-mentors');
+    }
   }
 });
 
@@ -567,6 +598,105 @@ function initializeTalksPagination() {
   });
   
   document.getElementById('talks-next-btn').addEventListener('click', () => {
+    showPage(currentPage + 1);
+  });
+  
+  // Dot navigation
+  paginationContainer.querySelectorAll('.pagination-dot').forEach(dot => {
+    dot.addEventListener('click', () => {
+      const page = parseInt(dot.getAttribute('data-page'));
+      showPage(page);
+    });
+  });
+}
+
+// Team section pagination functionality (generic function for all team sections)
+function initializeTeamSectionPagination(sectionId, prefix) {
+  const teamSection = document.querySelector(`section#${sectionId}`);
+  if (!teamSection) return;
+  
+  // Check if pagination already exists
+  if (teamSection.querySelector(`.${prefix}-pagination`)) {
+    return;
+  }
+  
+  const row = teamSection.querySelector('.row');
+  if (!row) return;
+  
+  // Get all team member cards (divs with col-md-6 that contain cards)
+  const cards = Array.from(row.querySelectorAll('.col-md-6'));
+  
+  if (cards.length === 0) return;
+  
+  const cardsPerPage = 4;
+  const totalPages = Math.ceil(cards.length / cardsPerPage);
+  let currentPage = 1;
+  
+  // Add data attribute to each card for pagination
+  cards.forEach((card, index) => {
+    card.setAttribute('data-page', Math.floor(index / cardsPerPage) + 1);
+    if (index >= cardsPerPage) {
+      card.style.display = 'none';
+    }
+  });
+  
+  // Create pagination controls
+  const paginationContainer = document.createElement('div');
+  paginationContainer.className = `${prefix}-pagination`;
+  paginationContainer.innerHTML = `
+    <div class="pagination-controls d-flex justify-content-center align-items-center gap-3 mb-4">
+      <button class="btn btn-outline-primary pagination-btn" id="${prefix}-prev-btn" disabled>
+        <i class="fas fa-chevron-left"></i> Previous
+      </button>
+      <span class="pagination-info">
+        Page <span id="${prefix}-current-page">1</span> of <span id="${prefix}-total-pages">${totalPages}</span>
+      </span>
+      <button class="btn btn-outline-primary pagination-btn" id="${prefix}-next-btn" ${totalPages === 1 ? 'disabled' : ''}>
+        Next <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+    <div class="pagination-dots d-flex justify-content-center gap-2 mb-4">
+      ${Array.from({ length: totalPages }, (_, i) => 
+        `<button class="pagination-dot ${i === 0 ? 'active' : ''}" data-page="${i + 1}" aria-label="Go to page ${i + 1}"></button>`
+      ).join('')}
+    </div>
+  `;
+  
+  // Insert pagination before the row (at the top)
+  row.parentNode.insertBefore(paginationContainer, row);
+  
+  // Function to show a specific page
+  function showPage(page) {
+    if (page < 1 || page > totalPages) return;
+    
+    currentPage = page;
+    
+    // Show/hide cards
+    cards.forEach(card => {
+      const cardPage = parseInt(card.getAttribute('data-page'));
+      card.style.display = cardPage === page ? '' : 'none';
+    });
+    
+    // Update pagination controls
+    document.getElementById(`${prefix}-current-page`).textContent = page;
+    document.getElementById(`${prefix}-prev-btn`).disabled = page === 1;
+    document.getElementById(`${prefix}-next-btn`).disabled = page === totalPages;
+    
+    // Update dots
+    paginationContainer.querySelectorAll('.pagination-dot').forEach((dot, index) => {
+      dot.classList.toggle('active', index + 1 === page);
+    });
+    
+    // Scroll to top of team section
+    teamSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  
+  // Event listeners
+  document.getElementById(`${prefix}-prev-btn`).addEventListener('click', () => {
+    showPage(currentPage - 1);
+  });
+  
+  document.getElementById(`${prefix}-next-btn`).addEventListener('click', () => {
     showPage(currentPage + 1);
   });
   
