@@ -2,7 +2,7 @@
   --primary-color: #1976d2;
   --secondary-color: #004ba0;
   --text-color: #333;
-  --bg-color: #fff;
+  --bg-color: #fafafa;
   --border-color: #e0e0e0;
 }
 
@@ -20,6 +20,11 @@ body {
 }
 
 /* Constrain main content width on wide screens for better readability */
+main.container-xl {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 @media (min-width: 1200px) {
   main.container-xl {
     max-width: 1000px !important;
@@ -81,7 +86,8 @@ body {
 /* Sections */
 .section {
   margin-bottom: 0.5rem !important;
-  padding: 0.5rem 0 !important;
+  padding: 1rem 0.5rem !important;
+  background-color: var(--bg-color);
 }
 
 .section h2 {
@@ -173,6 +179,7 @@ body {
   width: 100%;
   box-sizing: border-box;
   min-width: 0;
+  background-color: #fdfdfd;
 }
 
 .card:hover {
