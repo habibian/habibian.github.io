@@ -498,7 +498,7 @@ function initializeTalksPagination() {
   
   if (cards.length === 0) return;
   
-  const cardsPerPage = 2;
+  const cardsPerPage = 4;
   const totalPages = Math.ceil(cards.length / cardsPerPage);
   let currentPage = 1;
   
