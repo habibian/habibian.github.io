@@ -189,7 +189,7 @@ main.container-xl {
 
 .publication-links {
   display: inline-flex;
-  gap: 0.5rem;
+  gap: 0.125rem;
   flex-wrap: wrap;
   align-items: center;
   vertical-align: middle;
@@ -199,16 +199,16 @@ main.container-xl {
 .card-text .btn,
 .publication-links .btn,
 .news-card .card-body .btn {
-  padding: 0.2rem 0.5rem;
+  padding: 0.15rem 0.4rem;
   font-size: 0.75rem;
-  line-height: 1.3;
+  line-height: 1.2;
   vertical-align: middle;
 }
 
 .card-title {
   font-size: 1.1rem;
   font-weight: 600;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.35rem;
   color: var(--text-color);
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -223,13 +223,17 @@ main.container-xl {
   gap: 0.5rem;
 }
 
+.card-text.small {
+  font-size: 0.875em;
+}
+
 .card-text > span:first-child {
   display: inline-flex;
   align-items: center;
 }
 
 .btn-group {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 
 .btn {
@@ -250,6 +254,36 @@ main.container-xl {
   display: inline-block;
   vertical-align: baseline;
   margin-left: 0.5rem;
+}
+
+/* Reduce spacing in publication cards */
+.news-card .card-body > div.mb-2 {
+  margin-bottom: 0.125rem !important;
+}
+
+.news-card .card-body {
+  padding: 0.5rem;
+}
+
+.news-card .text-muted.small {
+  margin-bottom: 0.125rem !important;
+}
+
+/* Reduce spacing in talk cards */
+.card .card-body {
+  padding: 0.5rem;
+}
+
+.card .card-text {
+  margin-bottom: 0.35rem;
+}
+
+.card .btn-group .btn {
+  padding: 0.15rem 0.4rem;
+  font-size: 0.75rem;
+  line-height: 1.2;
+  margin-right: 0.25rem;
+  margin-bottom: 0;
 }
 
 .news-date {
