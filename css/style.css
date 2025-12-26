@@ -242,6 +242,16 @@ main.container-xl {
   margin-bottom: 1.5rem;
 }
 
+.news-card .card-text {
+  display: block;
+}
+
+.news-card .card-text .btn {
+  display: inline-block;
+  vertical-align: baseline;
+  margin-left: 0.5rem;
+}
+
 .news-date {
   color: #999;
   font-size: 0.9rem;
